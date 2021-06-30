@@ -2,7 +2,9 @@
 This repository contains the source code of WhatsApp clone which is a real time chat application built using React and Firebase.<br/>
 The Project provides Google Authentication and is hosted on Firebase. <br/>
 You can send messages or chat in existing rooms or even create a new room. <br/>
-Visit the live site <a href = "https://whatsapp-clone-b655b.web.app/">here</a>!! <br/>
+<br/>
+VISIT THE LIVE SITE <a href = "https://whatsapp-clone-b655b.web.app/"> HERE </a> <br/>
+<br/>
 The Components included are as follows: <br/>
 1. Sidebar Header consisting of Customizable Avatar and different functionality icons.<br/>
 2. Sidebar main component displaying different chat rooms.
