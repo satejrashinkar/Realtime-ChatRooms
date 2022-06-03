@@ -3,7 +3,7 @@ This repository contains the source code of WhatsApp clone which is a real time 
 The Project provides Google Authentication and is hosted on Firebase. <br/>
 You can send messages or chat in existing rooms or even create a new room. <br/>
 <br/>
-VISIT THE LIVE SITE <a href = "https://realtime-chatrooms-46970.web.app/"  target="_blank"> HERE </a> <br/>
+VISIT THE LIVE SITE <a href = "https://realtime-chatrooms-46970.web.app/"  target="_blank" rel="noopener noreferrer"> HERE </a> <br/>
 <br/>
 The Components included are as follows: <br/>
 1. Sidebar Header consisting of Customizable Avatar and different functionality icons.<br/>
