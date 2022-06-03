@@ -1,5 +1,5 @@
 # Realtime-ChatRooms
-This repository contains the source code of WhatsApp clone which is a real time chat application built using React and Firebase.<br/>
+This repository contains the source code of Realtime-ChatRooms which is a real time chat application built using React and Firebase.<br/>
 The Project provides Google Authentication and is hosted on Firebase. <br/>
 You can send messages or chat in existing rooms or even create a new room. <br/>
 <br/>
